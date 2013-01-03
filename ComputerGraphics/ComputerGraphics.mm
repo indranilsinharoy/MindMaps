@@ -1,7 +1,7 @@
 <map version="docear 1.0" dcr_id="1351903315416_98951h8yxyeuophphlk257kgz" dcr_uri="workspace:/../MindMaps/KnowledgeTree/ComputerGraphics/ComputerGraphics.mm">
 <!--To view this file, download Docear - The Academic Literature Suite from http://www.docear.org -->
 <node TEXT="COMPUTER GRAPHICS" FOLDED="false" ID="ID_1845392066" CREATED="1351903315404" MODIFIED="1352067770532"><hook NAME="MapStyle">
-    <properties show_note_icons="true"/>
+    <properties show_icon_for_attributes="true" show_note_icons="true"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node">
@@ -219,7 +219,7 @@ dimensional image to be viewed in two dimensions.</p>
   </body>
 </html>
 </richcontent>
-<node TEXT="@" FOLDED="true" ID="ID_271512371" CREATED="1351904972997" MODIFIED="1351904976846">
+<node TEXT="@" ID="ID_271512371" CREATED="1351904972997" MODIFIED="1351904976846">
 <node TEXT="The Rendering equation" ID="ID_1199680296" CREATED="1351904369059" MODIFIED="1351904432897"><richcontent TYPE="NOTE">
 
 <html>
@@ -568,6 +568,11 @@ dimensional image to be viewed in two dimensions.</p>
 <node TEXT="Ravi Ramamoorthi" FOLDED="true" ID="ID_1446352420" CREATED="1351903948264" MODIFIED="1351904645008" LINK="http://www.cs.berkeley.edu/~ravir">
 <node TEXT="Spherical Harmonic Lighting" ID="ID_919649775" CREATED="1351903961606" MODIFIED="1351903970542"/>
 </node>
+<node TEXT="Henrik Wann Jensen" FOLDED="true" ID="ID_270867150" CREATED="1357170557125" MODIFIED="1357170787773" LINK="http://graphics.ucsd.edu/~henrik/">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" DASH="3 3" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1476899178" STARTINCLINATION="299;0;" ENDINCLINATION="299;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<node TEXT="Appearance modeling" ID="ID_1413469702" CREATED="1357170707547" MODIFIED="1357170753975"/>
+<node TEXT="Photon mapping" ID="ID_1911636534" CREATED="1357170716529" MODIFIED="1357170721656"/>
+</node>
 </node>
 <node TEXT="Research Labs" ID="ID_1503043721" CREATED="1351903315408" MODIFIED="1353124242343"><richcontent TYPE="NOTE">
 
@@ -616,10 +621,27 @@ dimensional image to be viewed in two dimensions.</p>
 <node TEXT="Learning Modern 3D Graphics Programming by Jason L. McKesson" ID="ID_1704163933" CREATED="1353177968154" MODIFIED="1353178024822" LINK="http://arcsynthesis.org/gltut/"/>
 </node>
 <node TEXT="Paper based" ID="ID_1143380335" CREATED="1353124213946" MODIFIED="1353124224722">
+<node TEXT="Fundamentals of Computer Graphics by Shirley" ID="ID_650785500" CREATED="1357170996064" MODIFIED="1357171029794"/>
+<node TEXT="Physically Based Rendering Theory to Implementation by Matt Pharr et. al." ID="ID_719184146" CREATED="1357171033297" MODIFIED="1357171063610"/>
+<node TEXT="Ray Tracing From Ground Up by Kevin Suffern" ID="ID_381736396" CREATED="1357171070291" MODIFIED="1357171085114"/>
+<node TEXT="Mathematics for 3D Games Programming &amp; Computer Graphics by Lengyel" ID="ID_1831652952" CREATED="1357171111525" MODIFIED="1357171138565"/>
+<node TEXT="Quaternions for Computer Graphics by John Vince" ID="ID_1305230370" CREATED="1357171192525" MODIFIED="1357171209584"/>
 <node TEXT="Realistic Image Systhesis Using Photon Mapping by Henrik Wann Jensen" ID="ID_1476899178" CREATED="1351913471919" MODIFIED="1353177998508"/>
 </node>
 </node>
 <node TEXT="Tutorials" ID="ID_1092997223" CREATED="1353124244358" MODIFIED="1353124247298"/>
+<node TEXT="web resources" ID="ID_510710857" CREATED="1354857349397" MODIFIED="1354857358628">
+<node TEXT="ACM TOG Bib" ID="ID_503853872" CREATED="1354857385278" MODIFIED="1354857492038" LINK="http://tog.acm.org/resources/BibLook.html"/>
+<node TEXT="Graphics software related tools" ID="ID_1435563240" CREATED="1354857493913" MODIFIED="1354857510257" LINK="http://tog.acm.org/resources/Software.html"/>
+<node TEXT="Real-Time Rendering" ID="ID_290175838" CREATED="1354857714140" MODIFIED="1354857754239" LINK="http://www.realtimerendering.com/"/>
+<node TEXT="Ray tracing News Guide" ID="ID_1122290764" CREATED="1354858060757" MODIFIED="1354858076523" LINK="http://tog.acm.org/resources/RTNews/html/index.html"/>
+</node>
+<node TEXT="Courses" ID="ID_390288590" CREATED="1357168045926" MODIFIED="1357168057914">
+<node TEXT="Computer Graphics by Kenneth Joy (iTunes)" ID="ID_39447340" CREATED="1357168084593" MODIFIED="1357168170821" LINK="https://itunes.apple.com/us/itunes-u/computer-graphics-fall-2009/id457893733"/>
+<node TEXT="Courses @ Stanford University" ID="ID_1547950163" CREATED="1357170206955" MODIFIED="1357170364753" LINK="http://www-graphics.stanford.edu/courses/"/>
+<node TEXT="Courses @ Carnegie Mellon University" ID="ID_713119651" CREATED="1357170290714" MODIFIED="1357170377166" LINK="http://graphics.cs.cmu.edu/courses/"/>
+<node TEXT="Courses by Henrik Wann Jensen (UCSan Diego)" ID="ID_464659982" CREATED="1357170502256" MODIFIED="1357170543441" LINK="http://graphics.ucsd.edu/~henrik/teaching/"/>
+</node>
 </node>
 <node TEXT="SOFTWARE" POSITION="left" ID="ID_330864894" CREATED="1351903315408" MODIFIED="1351903315408">
 <node TEXT="Proprietary software packages" FOLDED="true" ID="ID_1901982941" CREATED="1351903614393" MODIFIED="1351905728494">
@@ -691,7 +713,7 @@ dimensional image to be viewed in two dimensions.</p>
 <node TEXT="Autodesk 123D" ID="ID_806724627" CREATED="1351905856148" MODIFIED="1351905866822"/>
 <node TEXT="Many others" ID="ID_752122765" CREATED="1351905809522" MODIFIED="1351905823937" LINK="http://en.wikipedia.org/wiki/3D_computer_graphics_software"/>
 </node>
-<node TEXT="Renderers" FOLDED="true" ID="ID_1136861057" CREATED="1351905745128" MODIFIED="1351905749774">
+<node TEXT="Renderers" ID="ID_1136861057" CREATED="1351905745128" MODIFIED="1351905749774">
 <node TEXT="Proprietary" ID="ID_1669756821" CREATED="1351906033847" MODIFIED="1351906057124">
 <node TEXT="PhotoRealistic RenderMan" ID="ID_1107750815" CREATED="1351906339945" MODIFIED="1351907551538" LINK="http://renderman.pixar.com/products/tools/rps.html"><richcontent TYPE="NOTE">
 
@@ -734,14 +756,7 @@ dimensional image to be viewed in two dimensions.</p>
 <node TEXT="Many others" ID="ID_978995837" CREATED="1351906721293" MODIFIED="1351906729951" LINK="http://en.wikipedia.org/wiki/3D_computer_graphics_software"/>
 </node>
 <node TEXT="Free &amp; Opensource" ID="ID_343840507" CREATED="1351906057924" MODIFIED="1351906063429">
-<node TEXT="POV Ray" ID="ID_759372842" CREATED="1351903806772" MODIFIED="1351903809737"/>
-<node TEXT="YafaRay" ID="ID_1142310359" CREATED="1351905951986" MODIFIED="1351905967288"/>
-<node TEXT="LuxRender" ID="ID_735909996" CREATED="1351906656308" MODIFIED="1351906663085"/>
-<node TEXT="Many others" ID="ID_1480475580" CREATED="1351906744490" MODIFIED="1351906753190" LINK="http://en.wikipedia.org/wiki/3D_computer_graphics_software"/>
-</node>
-</node>
-<node TEXT="API" ID="ID_1320173476" CREATED="1351906556629" MODIFIED="1351906558790">
-<node TEXT="RenderMan" ID="ID_1183123532" CREATED="1351906560780" MODIFIED="1351906603312"><richcontent TYPE="NOTE">
+<node TEXT="PBRT" ID="ID_1182105453" CREATED="1354687265274" MODIFIED="1354687365837" LINK="http://www.pbrt.org/"><richcontent TYPE="NOTE">
 
 <html>
   <head>
@@ -749,13 +764,25 @@ dimensional image to be viewed in two dimensions.</p>
   </head>
   <body>
     <p>
-      http://en.wikipedia.org/wiki/RenderMan
+      Photorealistic rendering.
     </p>
   </body>
 </html>
 </richcontent>
 </node>
-<node TEXT="OpenGL" ID="ID_347637635" CREATED="1351909602630" MODIFIED="1353186222683" LINK="http://www.opengl.org/"><richcontent TYPE="NOTE">
+<node TEXT="POV Ray" ID="ID_759372842" CREATED="1351903806772" MODIFIED="1351903809737"/>
+<node TEXT="YafaRay" ID="ID_1142310359" CREATED="1351905951986" MODIFIED="1351905967288"/>
+<node TEXT="LuxRender" ID="ID_735909996" CREATED="1351906656308" MODIFIED="1351906663085"/>
+<node TEXT="Pixie" ID="ID_566455998" CREATED="1354687106978" MODIFIED="1354687189367" LINK="http://www.renderpixie.com/">
+<node TEXT="Opensource renderman" ID="ID_153303080" CREATED="1354687135356" MODIFIED="1354687140610"/>
+<node TEXT="Photorealistic rendering" ID="ID_1646038631" CREATED="1354687142153" MODIFIED="1354687147423"/>
+</node>
+<node TEXT="Many others" ID="ID_1480475580" CREATED="1351906744490" MODIFIED="1351906753190" LINK="http://en.wikipedia.org/wiki/3D_computer_graphics_software"/>
+</node>
+</node>
+<node TEXT="API" ID="ID_1320173476" CREATED="1351906556629" MODIFIED="1351906558790">
+<node TEXT="Raster type" ID="ID_1866933134" CREATED="1357029749307" MODIFIED="1357029765906">
+<node TEXT="OpenGL" FOLDED="true" ID="ID_347637635" CREATED="1351909602630" MODIFIED="1353186222683" LINK="http://www.opengl.org/"><richcontent TYPE="NOTE">
 
 <html>
   <head>
@@ -801,7 +828,6 @@ dimensional image to be viewed in two dimensions.</p>
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="Buffer Objects" ID="ID_1376374946" CREATED="1353212390854" MODIFIED="1353212395494"/>
 <node TEXT="Textures" ID="ID_1800704742" CREATED="1353212395959" MODIFIED="1353212398513"/>
@@ -897,7 +923,7 @@ dimensional image to be viewed in two dimensions.</p>
   </body>
 </html>
 </richcontent>
-<node TEXT="GLUT (OpenGL Utility Toolkit) [obsolete]" FOLDED="true" ID="ID_1342201501" CREATED="1351910985254" MODIFIED="1352925652399"><richcontent TYPE="NOTE">
+<node TEXT="GLUT (OpenGL Utility Toolkit) [obsolete]" ID="ID_1342201501" CREATED="1351910985254" MODIFIED="1352925652399"><richcontent TYPE="NOTE">
 
 <html>
   <head>
@@ -921,9 +947,27 @@ dimensional image to be viewed in two dimensions.</p>
 <node TEXT="monitoring of keyboard &amp; mouse input" ID="ID_92585606" CREATED="1352855060827" MODIFIED="1352855077595"/>
 <node TEXT="routines for drawing few geometric primitives" ID="ID_1343087826" CREATED="1352855078632" MODIFIED="1352855094949"/>
 </node>
+<node TEXT="Extendes OpenGL functionality" ID="ID_1159259259" CREATED="1354042360632" MODIFIED="1354042468252"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Implemented using OpenGL
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="Renders disks, spheres, cylinders" ID="ID_153048798" CREATED="1354042378139" MODIFIED="1354042397616"/>
+<node TEXT="Renders splines" ID="ID_217016011" CREATED="1354042398180" MODIFIED="1354042403726"/>
+<node TEXT="Setting orthographic or perspective view" ID="ID_588700663" CREATED="1354042404277" MODIFIED="1354042442635"/>
+<node TEXT="Tessellating a polygon into triangles" ID="ID_677290783" CREATED="1354042443107" MODIFIED="1354042457416"/>
+</node>
 <node TEXT="Cross-platform" ID="ID_1016333318" CREATED="1352855114493" MODIFIED="1352855118925"/>
 </node>
-<node TEXT="freeGLUT toolkit (alternative for GLUT)" FOLDED="true" ID="ID_1516058366" CREATED="1352925659798" MODIFIED="1353186598921"><richcontent TYPE="NOTE">
+<node TEXT="freeGLUT toolkit (alternative for GLUT)" ID="ID_1516058366" CREATED="1352925659798" MODIFIED="1353186598921"><richcontent TYPE="NOTE">
 
 <html>
   <head>
@@ -1026,6 +1070,9 @@ dimensional image to be viewed in two dimensions.</p>
 </html>
 </richcontent>
 </node>
+<node TEXT="GLX (OpenGL Extension to X windows system" ID="ID_1092604560" CREATED="1354079067896" MODIFIED="1354079114249"/>
+<node TEXT="WGL (OpenGL Extension (for windowing) to Microsoft Windows)" ID="ID_185258309" CREATED="1354079134762" MODIFIED="1354079191507"/>
+<node TEXT="CGL (Apple OS&apos;s interface)" ID="ID_650910194" CREATED="1354079236500" MODIFIED="1354079247554"/>
 </node>
 <node TEXT="Multimedia libraries" ID="ID_314184408" CREATED="1353180560077" MODIFIED="1353180580192"><richcontent TYPE="NOTE">
 
@@ -1735,7 +1782,7 @@ dimensional image to be viewed in two dimensions.</p>
 </node>
 </node>
 </node>
-<node TEXT="Direct3D" ID="ID_355913808" CREATED="1351909676979" MODIFIED="1352855931931"><richcontent TYPE="NOTE">
+<node TEXT="Direct3D" ID="ID_355913808" CREATED="1351909676979" MODIFIED="1357029889291"><richcontent TYPE="NOTE">
 
 <html>
   <head>
@@ -1743,20 +1790,53 @@ dimensional image to be viewed in two dimensions.</p>
   </head>
   <body>
     <p>
-      <font face="sans-serif" size="12.499999046325684px" color="rgb(0, 0, 0)">&quot;It is a 3D rendering API. Direct3D uses</font><font face="sans-serif" color="rgb(0, 0, 0)">&#160;</font><font face="sans-serif" size="12.499999046325684px" color="rgb(11, 0, 128)"><a title="Hardware acceleration" style="font-variant: normal; text-align: start; white-space: normal; background-color: rgb(255, 255, 255); font-style: normal; background-image: none; color: rgb(11, 0, 128); line-height: 19.192707061767578px; letter-spacing: normal; text-indent: 0px; font-family: sans-serif; font-size: 12.499999046325684px; font-weight: normal; word-spacing: 0px; background-position: initial initial; text-decoration: initial; text-transform: none; background-repeat: repeat" href="http://en.wikipedia.org/wiki/Hardware_acceleration">hardware acceleration</a></font><font face="sans-serif" color="rgb(0, 0, 0)">&#160;</font><font size="12.499999046325684px" face="sans-serif" color="rgb(0, 0, 0)">if it is available on the</font><font face="sans-serif" color="rgb(0, 0, 0)">&#160;</font><font face="sans-serif" size="12.499999046325684px" color="rgb(11, 0, 128)"><a title="Graphics card" class="mw-redirect" style="font-variant: normal; text-align: start; white-space: normal; background-color: rgb(255, 255, 255); font-style: normal; color: rgb(11, 0, 128); background-image: none; line-height: 19.192707061767578px; letter-spacing: normal; text-indent: 0px; font-family: sans-serif; font-size: 12.499999046325684px; font-weight: normal; word-spacing: 0px; background-position: initial initial; text-decoration: initial; text-transform: none; background-repeat: repeat" href="http://en.wikipedia.org/wiki/Graphics_card">graphics card</a></font><font size="12.499999046325684px" face="sans-serif" color="rgb(0, 0, 0)">, allowing for hardware acceleration of the entire 3D rendering pipeline or even only partial acceleration. </font>
+      <font color="rgb(0, 0, 0)" face="sans-serif">&quot;It is a 3D rendering API. Direct3D uses&#160;</font><font color="rgb(11, 0, 128)" face="sans-serif" size="12.499999046325684px"><a style="font-weight: normal; background-color: rgb(255, 255, 255); color: rgb(11, 0, 128); text-transform: none; text-indent: 0px; font-size: 12.499999046325684px; letter-spacing: normal; word-spacing: 0px; text-decoration: initial; background-repeat: repeat; font-variant: normal; background-image: none; text-align: start; background-position: initial initial; white-space: normal; line-height: 19.192707061767578px; font-family: sans-serif; font-style: normal" href="http://en.wikipedia.org/wiki/Hardware_acceleration" title="Hardware acceleration">hardware acceleration</a></font><font color="rgb(0, 0, 0)" face="sans-serif">&#160;if it is available on the&#160;</font><font color="rgb(11, 0, 128)" face="sans-serif" size="12.499999046325684px"><a style="font-weight: normal; background-color: rgb(255, 255, 255); text-transform: none; color: rgb(11, 0, 128); letter-spacing: normal; font-size: 12.499999046325684px; text-indent: 0px; word-spacing: 0px; text-decoration: initial; background-repeat: repeat; font-variant: normal; background-image: none; text-align: start; background-position: initial initial; white-space: normal; line-height: 19.192707061767578px; font-family: sans-serif; font-style: normal" class="mw-redirect" href="http://en.wikipedia.org/wiki/Graphics_card" title="Graphics card">graphics card</a></font><font color="rgb(0, 0, 0)" face="sans-serif">, allowing for hardware acceleration of the entire 3D rendering pipeline or even only partial acceleration. </font>
     </p>
     <p>
-      <font size="12.499999046325684px" face="sans-serif" color="rgb(0, 0, 0)">Direct3D exposes the advanced graphics capabilities of 3D graphics hardware, including</font><font face="sans-serif" color="rgb(0, 0, 0)">&#160;</font><font face="sans-serif" size="12.499999046325684px" color="rgb(11, 0, 128)"><a title="Z-buffering" style="font-variant: normal; text-align: start; white-space: normal; background-color: rgb(255, 255, 255); font-style: normal; color: rgb(11, 0, 128); background-image: none; line-height: 19.192707061767578px; letter-spacing: normal; text-indent: 0px; font-family: sans-serif; font-size: 12.499999046325684px; font-weight: normal; word-spacing: 0px; background-position: initial initial; text-decoration: initial; text-transform: none; background-repeat: repeat" href="http://en.wikipedia.org/wiki/Z-buffering">z-buffering</a></font><font size="12.499999046325684px" face="sans-serif" color="rgb(0, 0, 0)">,</font><font face="sans-serif" color="rgb(0, 0, 0)">&#160;</font><font face="sans-serif" size="12.499999046325684px" color="rgb(11, 0, 128)"><a title="Spatial anti-aliasing" style="font-variant: normal; text-align: start; white-space: normal; background-color: rgb(255, 255, 255); font-style: normal; color: rgb(11, 0, 128); background-image: none; line-height: 19.192707061767578px; letter-spacing: normal; text-indent: 0px; font-family: sans-serif; font-size: 12.499999046325684px; font-weight: normal; word-spacing: 0px; background-position: initial initial; text-decoration: initial; text-transform: none; background-repeat: repeat" href="http://en.wikipedia.org/wiki/Spatial_anti-aliasing">spatial anti-aliasing</a></font><font size="12.499999046325684px" face="sans-serif" color="rgb(0, 0, 0)">,</font><font face="sans-serif" color="rgb(0, 0, 0)">&#160;</font><font face="sans-serif" size="12.499999046325684px" color="rgb(11, 0, 128)"><a title="Alpha compositing" style="font-variant: normal; text-align: start; white-space: normal; background-color: rgb(255, 255, 255); font-style: normal; color: rgb(11, 0, 128); background-image: none; line-height: 19.192707061767578px; letter-spacing: normal; text-indent: 0px; font-family: sans-serif; font-size: 12.499999046325684px; font-weight: normal; word-spacing: 0px; background-position: initial initial; text-decoration: initial; text-transform: none; background-repeat: repeat" href="http://en.wikipedia.org/wiki/Alpha_compositing">alpha blending</a></font><font size="12.499999046325684px" face="sans-serif" color="rgb(0, 0, 0)">,</font><font face="sans-serif" color="rgb(0, 0, 0)">&#160;</font><font face="sans-serif" size="12.499999046325684px" color="rgb(11, 0, 128)"><a title="Mipmap" style="font-variant: normal; text-align: start; white-space: normal; background-color: rgb(255, 255, 255); font-style: normal; color: rgb(11, 0, 128); background-image: none; line-height: 19.192707061767578px; letter-spacing: normal; text-indent: 0px; font-family: sans-serif; font-size: 12.499999046325684px; font-weight: normal; word-spacing: 0px; background-position: initial initial; text-decoration: initial; text-transform: none; background-repeat: repeat" href="http://en.wikipedia.org/wiki/Mipmap">mipmapping</a></font><font size="12.499999046325684px" face="sans-serif" color="rgb(0, 0, 0)">, atmospheric effects, and perspective-correct</font><font face="sans-serif" color="rgb(0, 0, 0)">&#160;</font><u><font face="sans-serif" size="12.499999046325684px" color="rgb(11, 0, 128)"><a title="Texture mapping" style="font-variant: normal; text-align: start; white-space: normal; background-color: rgb(255, 255, 255); font-style: normal; color: rgb(11, 0, 128); background-image: none; line-height: 19.192707061767578px; letter-spacing: normal; text-indent: 0px; font-family: sans-serif; font-size: 12.499999046325684px; font-weight: normal; word-spacing: 0px; background-position: initial initial; text-decoration: underline; text-transform: none; background-repeat: repeat" href="http://en.wikipedia.org/wiki/Texture_mapping">texture mapping</a></font></u><font size="12.499999046325684px" face="sans-serif" color="rgb(0, 0, 0)">. </font>
+      <font color="rgb(0, 0, 0)" face="sans-serif">Direct3D exposes the advanced graphics capabilities of 3D graphics hardware, including&#160;</font><font color="rgb(11, 0, 128)" face="sans-serif" size="12.499999046325684px"><a style="font-weight: normal; background-color: rgb(255, 255, 255); text-transform: none; color: rgb(11, 0, 128); letter-spacing: normal; font-size: 12.499999046325684px; text-indent: 0px; word-spacing: 0px; text-decoration: initial; background-repeat: repeat; font-variant: normal; background-image: none; text-align: start; background-position: initial initial; white-space: normal; line-height: 19.192707061767578px; font-family: sans-serif; font-style: normal" href="http://en.wikipedia.org/wiki/Z-buffering" title="Z-buffering">z-buffering</a></font><font color="rgb(0, 0, 0)" face="sans-serif">,&#160;</font><font color="rgb(11, 0, 128)" face="sans-serif" size="12.499999046325684px"><a style="font-weight: normal; background-color: rgb(255, 255, 255); text-transform: none; color: rgb(11, 0, 128); letter-spacing: normal; font-size: 12.499999046325684px; text-indent: 0px; word-spacing: 0px; text-decoration: initial; background-repeat: repeat; font-variant: normal; background-image: none; text-align: start; background-position: initial initial; white-space: normal; line-height: 19.192707061767578px; font-family: sans-serif; font-style: normal" href="http://en.wikipedia.org/wiki/Spatial_anti-aliasing" title="Spatial anti-aliasing">spatial anti-aliasing</a></font><font color="rgb(0, 0, 0)" face="sans-serif">,&#160;</font><font color="rgb(11, 0, 128)" face="sans-serif" size="12.499999046325684px"><a style="font-weight: normal; background-color: rgb(255, 255, 255); text-transform: none; color: rgb(11, 0, 128); letter-spacing: normal; font-size: 12.499999046325684px; text-indent: 0px; word-spacing: 0px; text-decoration: initial; background-repeat: repeat; font-variant: normal; background-image: none; text-align: start; background-position: initial initial; white-space: normal; line-height: 19.192707061767578px; font-family: sans-serif; font-style: normal" href="http://en.wikipedia.org/wiki/Alpha_compositing" title="Alpha compositing">alpha blending</a></font><font color="rgb(0, 0, 0)" face="sans-serif">,&#160;</font><font color="rgb(11, 0, 128)" face="sans-serif" size="12.499999046325684px"><a style="font-weight: normal; background-color: rgb(255, 255, 255); text-transform: none; color: rgb(11, 0, 128); letter-spacing: normal; font-size: 12.499999046325684px; text-indent: 0px; word-spacing: 0px; text-decoration: initial; background-repeat: repeat; font-variant: normal; background-image: none; text-align: start; background-position: initial initial; white-space: normal; line-height: 19.192707061767578px; font-family: sans-serif; font-style: normal" href="http://en.wikipedia.org/wiki/Mipmap" title="Mipmap">mipmapping</a></font><font color="rgb(0, 0, 0)" face="sans-serif">, atmospheric effects, and perspective-correct&#160;</font><a style="font-weight: normal; background-color: rgb(255, 255, 255); text-transform: none; color: rgb(11, 0, 128); letter-spacing: normal; font-size: 12.499999046325684px; text-indent: 0px; word-spacing: 0px; text-decoration: underline; background-repeat: repeat; font-variant: normal; background-image: none; text-align: start; background-position: initial initial; white-space: normal; line-height: 19.192707061767578px; font-family: sans-serif; font-style: normal" href="http://en.wikipedia.org/wiki/Texture_mapping" title="Texture mapping"><font color="rgb(11, 0, 128)" face="sans-serif" size="12.499999046325684px"><u>texture mapping</u></font></a><font color="rgb(0, 0, 0)" face="sans-serif">. </font>
     </p>
     <p>
-      <font size="12.499999046325684px" face="sans-serif" color="rgb(0, 0, 0)">Integration with other DirectX technologies enables Direct3D to deliver such features as video mapping, hardware 3D rendering in 2D</font><font face="sans-serif" color="rgb(0, 0, 0)">&#160;</font><font face="sans-serif" size="12.499999046325684px" color="rgb(11, 0, 128)"><a title="Video overlay" style="font-variant: normal; text-align: start; white-space: normal; background-color: rgb(255, 255, 255); font-style: normal; color: rgb(11, 0, 128); background-image: none; line-height: 19.192707061767578px; letter-spacing: normal; text-indent: 0px; font-family: sans-serif; font-size: 12.499999046325684px; font-weight: normal; word-spacing: 0px; background-position: initial initial; text-decoration: initial; text-transform: none; background-repeat: repeat" href="http://en.wikipedia.org/wiki/Video_overlay">overlay</a></font><font face="sans-serif" color="rgb(0, 0, 0)">&#160;</font><font size="12.499999046325684px" face="sans-serif" color="rgb(0, 0, 0)">planes, and even</font><font face="sans-serif" color="rgb(0, 0, 0)">&#160;</font><font face="sans-serif" size="12.499999046325684px" color="rgb(11, 0, 128)"><a title="Sprite (computer graphics)" style="font-variant: normal; text-align: start; white-space: normal; background-color: rgb(255, 255, 255); font-style: normal; color: rgb(11, 0, 128); background-image: none; line-height: 19.192707061767578px; letter-spacing: normal; text-indent: 0px; font-family: sans-serif; font-size: 12.499999046325684px; font-weight: normal; word-spacing: 0px; background-position: initial initial; text-decoration: initial; text-transform: none; background-repeat: repeat" href="http://en.wikipedia.org/wiki/Sprite_(computer_graphics)">sprites</a></font><font size="12.499999046325684px" face="sans-serif" color="rgb(0, 0, 0)">, providing the use of 2D and 3D graphics in interactive media titles.&quot; Wikipedia</font>
+      <font color="rgb(0, 0, 0)" face="sans-serif">Integration with other DirectX technologies enables Direct3D to deliver such features as video mapping, hardware 3D rendering in 2D&#160;</font><a style="font-weight: normal; background-color: rgb(255, 255, 255); text-transform: none; color: rgb(11, 0, 128); letter-spacing: normal; font-size: 12.499999046325684px; text-indent: 0px; word-spacing: 0px; text-decoration: initial; background-repeat: repeat; font-variant: normal; background-image: none; text-align: start; background-position: initial initial; white-space: normal; line-height: 19.192707061767578px; font-family: sans-serif; font-style: normal" href="http://en.wikipedia.org/wiki/Video_overlay" title="Video overlay"><font color="rgb(11, 0, 128)" face="sans-serif" size="12.499999046325684px">overlay</font></a><font color="rgb(0, 0, 0)" face="sans-serif">&#160;planes, and even&#160;</font><a style="font-weight: normal; background-color: rgb(255, 255, 255); text-transform: none; color: rgb(11, 0, 128); letter-spacing: normal; font-size: 12.499999046325684px; text-indent: 0px; word-spacing: 0px; text-decoration: initial; background-repeat: repeat; font-variant: normal; background-image: none; text-align: start; background-position: initial initial; white-space: normal; line-height: 19.192707061767578px; font-family: sans-serif; font-style: normal" href="http://en.wikipedia.org/wiki/Sprite_(computer_graphics)" title="Sprite (computer graphics)"><font color="rgb(11, 0, 128)" face="sans-serif" size="12.499999046325684px">sprites</font></a><font color="rgb(0, 0, 0)" face="sans-serif">, providing the use of 2D and 3D graphics in interactive media titles.&quot; Wikipedia</font>
     </p>
   </body>
 </html>
 </richcontent>
 </node>
-<node TEXT="Glide" ID="ID_1781308028" CREATED="1351909689743" MODIFIED="1351909693591"/>
-<node TEXT="RISpec (Pixer)" ID="ID_561862689" CREATED="1351909697206" MODIFIED="1351909712090"/>
+<node TEXT="Glide" ID="ID_1781308028" CREATED="1351909689743" MODIFIED="1357030039697" LINK="http://en.wikipedia.org/wiki/Glide_API"/>
+</node>
+<node TEXT="Ray-tracing" ID="ID_1981353128" CREATED="1357029766533" MODIFIED="1357029771667">
+<node TEXT="NVIDIA&apos;s OptiX" ID="ID_360481440" CREATED="1357029900112" MODIFIED="1357030277076" LINK="http://www.nvidia.com/object/optix.html"/>
+</node>
+<node TEXT="Hybrid" FOLDED="true" ID="ID_398933093" CREATED="1357029914744" MODIFIED="1357029918384">
+<node TEXT="RenderMan" FOLDED="true" ID="ID_1183123532" CREATED="1351906560780" MODIFIED="1351906603312"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      http://en.wikipedia.org/wiki/RenderMan
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="RISpec (Pixer)" ID="ID_561862689" CREATED="1351909697206" MODIFIED="1357030150851"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="rgb(0, 0, 0)" face="sans-serif" size="12.499999046325684px">The</font><font color="rgb(0, 0, 0)" face="sans-serif">&#160;</font><font color="rgb(0, 0, 0)" face="sans-serif" size="12.499999046325684px">RenderMan Interface Specification</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
 </node>
 <node TEXT="Shading language" FOLDED="true" ID="ID_535939743" CREATED="1351908296341" MODIFIED="1352853680790"><richcontent TYPE="NOTE">
 
@@ -1816,7 +1896,7 @@ dimensional image to be viewed in two dimensions.</p>
 <node TEXT="Supported only by DirectX &amp; Xbox game consoles" ID="ID_843472652" CREATED="1351911646442" MODIFIED="1351911666260"/>
 </node>
 </node>
-<node TEXT="3D File Libraries" ID="ID_660307617" CREATED="1353186600681" MODIFIED="1353186610485">
+<node TEXT="3D File Libraries" FOLDED="true" ID="ID_660307617" CREATED="1353186600681" MODIFIED="1353186610485">
 <node TEXT="Open Asset Import" ID="ID_343638232" CREATED="1353186614024" MODIFIED="1353186787441" LINK="http://assimp.sourceforge.net/index.html"><richcontent TYPE="NOTE">
 
 <html>
